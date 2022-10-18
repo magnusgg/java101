@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class alanbulma {
+public class ucgenalan {
     public static void main(String[] args) {
         double kenar1, kenar2, kenar3, u, alankare;
 
